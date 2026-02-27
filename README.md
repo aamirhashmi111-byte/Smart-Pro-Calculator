@@ -1,21 +1,21 @@
-# 🧮 Smart CLI Calculator (Python)
+# 🖥 Smart Pro Calculator
 
-A professional command-line calculator built using Python.
+A modern GUI Calculator built using Python and Tkinter.
 
 ## 🚀 Features
-- Basic arithmetic operations
-- Power & Square Root
-- Percentage calculation
-- Trigonometric functions (sin, cos, tan)
-- History tracking
-- Clear history option
-- Error handling
 
-## 🛠 Technologies Used
+- Dark Theme
+- Scientific Functions
+- History Panel
+- Keyboard Support
+- Clean UI
+
+## 🛠 Built With
+
 - Python
-- File Handling
+- Tkinter
 - Math Module
 
-## ▶ How to Run
-```bash
-python calculator.py
+---
+
+Created by [Aamir Hashmi]
